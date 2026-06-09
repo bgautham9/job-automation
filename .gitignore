@@ -1,0 +1,9 @@
+venv/
+.venv/
+.idea/
+__pycache__/
+.env
+*.pyc
+jobs.csv
+scored_jobs.csv
+page_dump.html
